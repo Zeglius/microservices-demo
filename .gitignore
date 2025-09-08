@@ -27,5 +27,4 @@ pkg/
 release/wi-kubernetes-manifests.yaml
 vendor/
 
-.gemini/
 gha-creds-*.json
